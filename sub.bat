@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -File  F:\studies\sem 2\CS5453 IoT\project\smart parking1\smart parking\ocr.ps1
